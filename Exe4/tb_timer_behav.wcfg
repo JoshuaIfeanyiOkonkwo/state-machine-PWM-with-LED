@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_timer_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_timer" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="42,065 ps"></ZoomStartTime>
+      <ZoomEndTime time="48,441 ps"></ZoomEndTime>
+      <Cursor1Time time="46,250 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="100"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/tb_timer/clk_in" type="logic">
+      <obj_property name="ElementShortName">clk_in</obj_property>
+      <obj_property name="ObjectShortName">clk_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_timer/clk_out" type="logic">
+      <obj_property name="ElementShortName">clk_out</obj_property>
+      <obj_property name="ObjectShortName">clk_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_timer/arst_n" type="logic">
+      <obj_property name="ElementShortName">arst_n</obj_property>
+      <obj_property name="ObjectShortName">arst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_timer/speed_in" type="array">
+      <obj_property name="ElementShortName">speed_in[1:0]</obj_property>
+      <obj_property name="ObjectShortName">speed_in[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_timer/tick_reset_pending" type="other">
+      <obj_property name="ElementShortName">tick_reset_pending</obj_property>
+      <obj_property name="ObjectShortName">tick_reset_pending</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_timer/uut/limit" type="other">
+      <obj_property name="ElementShortName">limit</obj_property>
+      <obj_property name="ObjectShortName">limit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_timer/fsm_state" type="array">
+      <obj_property name="ElementShortName">fsm_state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">fsm_state[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_timer/tick_count" type="other">
+      <obj_property name="ElementShortName">tick_count</obj_property>
+      <obj_property name="ObjectShortName">tick_count</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_timer/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_timer/uut/hold_40" type="other">
+      <obj_property name="ElementShortName">hold_40</obj_property>
+      <obj_property name="ObjectShortName">hold_40</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_timer/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+</wave_config>

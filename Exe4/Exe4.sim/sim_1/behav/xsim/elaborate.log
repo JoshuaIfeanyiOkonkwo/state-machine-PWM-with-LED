@@ -1,0 +1,20 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_led_fsm_behav xil_defaultlib.tb_led_fsm -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.edge_detector [edge_detector_default]
+Compiling architecture behavioral of entity xil_defaultlib.blink_timer [blink_timer_default]
+Compiling architecture behavioral of entity xil_defaultlib.timer [timer_default]
+Compiling architecture behavioral of entity xil_defaultlib.led_fsm [led_fsm_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_led_fsm
+Built simulation snapshot tb_led_fsm_behav

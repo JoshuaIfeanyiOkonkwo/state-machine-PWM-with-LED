@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sources_1/new/debounce.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'debounce'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_debounce'

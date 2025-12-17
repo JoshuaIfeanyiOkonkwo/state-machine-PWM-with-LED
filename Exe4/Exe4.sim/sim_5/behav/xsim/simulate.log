@@ -1,0 +1,103 @@
+Time resolution is 1 ps
+Note: Time=10000 ps button='1' result='0'
+Time: 10 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=30000 ps button='1' result='0'
+Time: 30 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=50000 ps button='1' result='0'
+Time: 50 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=70000 ps button='1' result='0'
+Time: 70 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=90000 ps button='1' result='0'
+Time: 90 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=110000 ps button='1' result='0'
+Time: 110 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=130000 ps button='1' result='0'
+Time: 130 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=150000 ps button='1' result='0'
+Time: 150 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=170000 ps button='1' result='0'
+Time: 170 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=190000 ps button='1' result='0'
+Time: 190 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Reset released
+Time: 200 ns  Iteration: 0  Process: /tb_debounce/stim_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=210000 ps button='1' result='0'
+Time: 210 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=230000 ps button='1' result='0'
+Time: 230 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=250000 ps button='1' result='0'
+Time: 250 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=270000 ps button='1' result='0'
+Time: 270 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=290000 ps button='1' result='0'
+Time: 290 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=310000 ps button='0' result='0'
+Time: 310 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=330000 ps button='0' result='0'
+Time: 330 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=350000 ps button='0' result='0'
+Time: 350 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=370000 ps button='0' result='0'
+Time: 370 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=390000 ps button='0' result='0'
+Time: 390 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=410000 ps button='0' result='0'
+Time: 410 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=430000 ps button='0' result='0'
+Time: 430 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=450000 ps button='0' result='0'
+Time: 450 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=470000 ps button='0' result='0'
+Time: 470 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=490000 ps button='0' result='0'
+Time: 490 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=510000 ps button='0' result='0'
+Time: 510 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=530000 ps button='0' result='0'
+Time: 530 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=550000 ps button='0' result='0'
+Time: 550 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=570000 ps button='0' result='0'
+Time: 570 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=590000 ps button='0' result='0'
+Time: 590 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=610000 ps button='0' result='0'
+Time: 610 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=630000 ps button='0' result='0'
+Time: 630 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=650000 ps button='0' result='0'
+Time: 650 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=670000 ps button='0' result='0'
+Time: 670 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=690000 ps button='0' result='0'
+Time: 690 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=710000 ps button='0' result='0'
+Time: 710 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=730000 ps button='0' result='0'
+Time: 730 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=750000 ps button='0' result='0'
+Time: 750 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=770000 ps button='0' result='0'
+Time: 770 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=790000 ps button='0' result='0'
+Time: 790 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=810000 ps button='0' result='0'
+Time: 810 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=830000 ps button='0' result='0'
+Time: 830 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=850000 ps button='0' result='0'
+Time: 850 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=870000 ps button='0' result='0'
+Time: 870 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=890000 ps button='0' result='0'
+Time: 890 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=910000 ps button='0' result='0'
+Time: 910 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=930000 ps button='0' result='0'
+Time: 930 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=950000 ps button='0' result='0'
+Time: 950 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=970000 ps button='0' result='0'
+Time: 970 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
+Note: Time=990000 ps button='0' result='0'
+Time: 990 ns  Iteration: 1  Process: /tb_debounce/monitor_proc  File: C:/Users/joshu/Desktop/Exercise 4/Updatedfile/part_4_buttons/Part_4 _without_Latches/Exe4/Exe4.srcs/sim_5/new/tb_debounce.vhd
