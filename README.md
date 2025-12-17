@@ -1,4 +1,4 @@
-# **Finite-State Machine (FSM) for PWM‑Controlled RGB LEDs**
+# **Finite-State Machine (FSM) for PWM‑Controlled LEDs Using Buttons on Zedboard**
 
 This project implements a finite‑state machine (FSM) that controls the PWM outputs of three LEDs.  
 Each state corresponds to a specific set of PWM duty cycles (0–255), where:
