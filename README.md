@@ -6,7 +6,7 @@ Each state corresponds to a specific set of PWM duty cycles (0–255), where:
 - **0** → LED fully OFF  
 - **255** → LED fully ON  
 - **128** → LED dimmed  
-- PWM module reused from Exercise 3  
+- PWM module 
 
 The FSM runs on a configurable timer and supports an **asynchronous alarm mode** that overrides normal operation.
 
