@@ -98,7 +98,7 @@ The system is implemented on a **Zedboard**, using:
 
 - **Buttons** → State control, reset, alarm  
 - **LEDs** → PWM‑controlled outputs  
-- **PWM module** → Reused from Exercise 3  
+- **PWM module**  
 - **Timer module** → Generates 10 Hz clock for state timing  
 
 The FSM cycles through states based on `speed_in`, and the alarm overrides normal operation with high‑speed blinking.
